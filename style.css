@@ -1,8 +1,15 @@
+html{
+  cursor: url(images/cursordefault.png), auto;
+}
+a:hover{
+  cursor: url(images/cursordefault.png), auto;
+}
 body{
   margin: 0;
   padding: 0;
   background: url(images/fondo.jpg);
 }
+
 .middle{
   position: absolute;
   top: 50%;
