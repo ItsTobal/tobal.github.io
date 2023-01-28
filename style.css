@@ -1,8 +1,8 @@
 html{
-  cursor: url(images/cursordefault.png), auto;
+  cursor: url(cursordefault.png), auto;
 }
 a:hover{
-  cursor: url(images/cursordefault.png), auto;
+  cursor: url(cursordefault.png), auto;
 }
 body{
   margin: 0;
